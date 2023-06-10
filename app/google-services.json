@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1344447424",
+    "project_id": "instahostel-c4918",
+    "storage_bucket": "instahostel-c4918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1344447424:android:0c18325abbf5b5191cde25",
+        "android_client_info": {
+          "package_name": "com.app.pruthvi.instahostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1344447424-2n0stiq6u2nrlrgkr5bivlk95n9f01gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.pruthvi.instahostel",
+            "certificate_hash": "136112ec81dd7d0fa9f684937d369dfaabf5da28"
+          }
+        },
+        {
+          "client_id": "1344447424-mckd0kj3lkaugbf9n1pvsgjuvjrvlan4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAblKx1w-H_uYG0MZ0pkGk8TVnE6RMAjY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1344447424-mckd0kj3lkaugbf9n1pvsgjuvjrvlan4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
